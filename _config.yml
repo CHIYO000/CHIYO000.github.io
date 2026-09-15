@@ -22,7 +22,7 @@ repository               : "CHIYO000/CHIYO000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jepg"
+  avatar           : "profile.png"
   name             : "ITO CHIYO"
   pronouns         : # example: "she/her"  
   bio              : "AI Product & User Researcher focusing on Japan market, CN-JP localization, and human-centered AI products."

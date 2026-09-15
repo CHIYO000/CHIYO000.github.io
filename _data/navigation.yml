@@ -17,17 +17,8 @@ main:
   - title: "AI Projects"
     url: /portfolio/
 
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Website Update Guide"
-    url: /website-update-guide/
+  # Research, Publications, CV, and Website Update Guide remain available
+  # as pages in the repository but are intentionally hidden from the main navigation.
 
   # Academic Pages also supports these sections. They remain available
   # without being included in the main navigation:
